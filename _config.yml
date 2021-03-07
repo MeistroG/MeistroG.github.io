@@ -1,1 +1,12 @@
+# config page
+
+title: Graham AD Archibald 
+desciption: the world of
+github_username: MeistroG
+email: gramarchibald@gmail.com
+
+use_math: True
+
 theme: jekyll-theme-tactile
+
+
